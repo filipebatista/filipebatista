@@ -49,15 +49,7 @@ const filipe = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipebatista&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=filipebatista&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=filipebatista&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
